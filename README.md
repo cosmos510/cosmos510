@@ -11,7 +11,7 @@
 I'm a passionate **Developer** focused on **Machine Learning** and **Web Development**. I enjoy solving complex problems and building projects that have a real-world impact, such as **Sign Language Translation**.
 
 ## 🔭 I’m currently working on ...
-- Developing a **Sign Language Recognition** web app that translates sign language into text. You can check it out here: [ASL Recognition](https://github.com/cosmos510/asl-recognition).
+- Developing a **Sign Language Recognition** web app that translates sign language into text. You can check it out here: [Signéo]([https://github.com/cosmos510/asl-recognition](https://github.com/cosmos510/FingerspellToSign)).
 - Improving my skills in **Machine Learning**, especially with **Scikit-learn**, and refining my **Django** knowledge to build more advanced web applications.
 
 ## 🌱 I’m currently learning ...
