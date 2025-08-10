@@ -17,7 +17,6 @@ I'm a passionate **Developer** focused on **Machine Learning** and **Web Develop
 ## 🌱 I’m currently learning ...
 - Advanced techniques in **Machine Learning** (Scikit-learn, TensorFlow).
 - **Advanced Django** to better handle scalable and complex web applications.
-- Soon, I’ll be diving into **JavaScript frameworks** to enhance my full-stack development capabilities.
 
 ## 👯 I’m looking to collaborate on ...
 - Projects involving **Machine Learning**, **Web Development**, and especially **Sign Language Recognition**.
@@ -25,8 +24,6 @@ I'm a passionate **Developer** focused on **Machine Learning** and **Web Develop
 
 ## 🤔 I’m looking for help with ...
 - **Deep Learning** models and improving performance in my Sign Language Translator.
-- Advancing my knowledge in **front-end technologies** as I work with new JavaScript frameworks.
-
 
 ## 📫 How to reach me: 
 - Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/maxime-martin-090731aa/), or you can email me at **maximemartin510@gmail.com**.
