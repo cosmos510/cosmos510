@@ -5,34 +5,34 @@
 
 
 
+# Maxime Martin | Founder of Webamax
 
-# Hi, I'm Maxime Martin 👋
+Fullstack Software Engineer & AI Architect based in Thonon-les-Bains. I specialize in bridging the gap between Machine Learning research and high-performance web applications. My goal is to transform advanced technology into secure, scalable, and user-friendly digital products.
 
-I'm a passionate **Developer** focused on **Machine Learning** and **Web Development**. I enjoy solving complex problems and building projects that have a real-world impact, such as **Sign Language Translation**.
+## > Technical Stack
+* **Frontend:** React, Vue.js, Next.js (SEO & GEO Focused)
+* **Backend:** Python (Django, FastAPI), Node.js
+* **AI/ML:** PyTorch, TensorFlow, Scikit-learn (Computer Vision & NLP)
+* **Infrastructure:** Server Hardening, Docker, CI/CD, SRE practices
 
-## 🔭 I’m currently working on ...
-- Developing a **Sign Language Recognition** web app that translates sign language into text. You can check it out here: [Signéo](https://github.com/cosmos510/FingerspellToSign).
-- Improving my skills in **Machine Learning**, especially with **Scikit-learn**, and refining my **Django** knowledge to build more advanced web applications.
+## > Currently Working On
+* **[Parle-avec-tes-mains](https://parle-avec-tes-mains.fr):** Building a real-time Sign Language Recognition interface powered by Computer Vision.
+* **[Webamax](https://webamax.fr):** Crafting high-performance websites and guiding businesses through the shift toward **Generative Engine Optimization (GEO)**.
+* **Security & ML Ops:** Strengthening production environments and optimizing PyTorch model deployments.
 
-## 🌱 I’m currently learning ...
-- Advanced techniques in **Machine Learning** (Scikit-learn, TensorFlow).
-- **Advanced Django** to better handle scalable and complex web applications.
+## > My Approach
+I believe that AI should not be a "black box." I focus on making innovative models accessible through intuitive web interfaces, ensuring they are backed by robust server security and optimized for real-world performance.
 
-## 👯 I’m looking to collaborate on ...
-- Projects involving **Machine Learning**, **Web Development**, and especially **Sign Language Recognition**.
-- Open to collaborating with people interested in **AI**, **Web Development**, or **Machine Learning**.
+## > 2026 Goals
+* **Model Optimization:** Refining Vision and Language models for edge and production environments.
+* **Infrastructure Security:** Implementing advanced protection and Zero Trust protocols for web servers.
 
-## 🤔 I’m looking for help with ...
-- **Deep Learning** models and improving performance in my Sign Language Translator.
+## > Collaboration
+* **AI & Computer Vision:** If you're working on accessibility or innovative ML tools.
+* **SaaS Development:** From initial MVP to secure, production-ready architecture.
+* **Open Source:** Happy to contribute to the Python and JavaScript communities.
 
-## 📫 How to reach me: 
-- Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/maxime-martin-090731aa/), or you can email me at **maximemartin510@gmail.com**.
-
-
-## ⚡ Fun fact: 
-- I love challenging myself both in sports and coding. Whether it's pushing myself physically or solving tough coding problems, I'm always looking for the next challenge to tackle and something cool to create!
-
----
-
-### 🌱 Currently Building On:
-- **Sign Language Recognition App** using **Machine Learning**. 
+## > Contact
+* **Agency:** [webamax.fr](https://webamax.fr)
+* **LinkedIn:** [Maxime Martin](https://www.linkedin.com/in/maxime-martin-090731aa/)
+* **Email:** contact@webamax.fr
