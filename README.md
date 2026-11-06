@@ -45,7 +45,7 @@ I treat code as a craft and infrastructure as a fortress. Whether I am training 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maximemartin&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximemartin&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=cosmos510&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmos510&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" height="150" />
 
 </div>
