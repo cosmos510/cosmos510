@@ -18,6 +18,8 @@ Fullstack Engineer specializing in the intersection of **Machine Learning** and 
   *Real-time ASL fingerspelling recognition leveraging Computer Vision & MediaPipe in the browser.*
 - **[Corpus LSF](https://ia.lsf.webamax.fr)**
   *Crowdsourcing platform designed to collect LSF gesture datasets for AI training (Next.js & Supabase).*
+- **[EuropiaTech](https://europiatech.eu)**
+  *Automated tech blog with AI content pipeline — RSS aggregation, Groq LLM generation, Discord approval workflow & GitHub API publishing.*
 - **[Neon Racer](https://neon-race.vercel.app)**
   *Futuristic 3D racing web application showcasing WebGL & Three.js 60 FPS optimization.*
 - **[Webamax](https://webamax.fr)**
